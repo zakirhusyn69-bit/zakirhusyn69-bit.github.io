@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zakirhusyn69-bit.github.io/road-to-kakul/sitemap.xml
